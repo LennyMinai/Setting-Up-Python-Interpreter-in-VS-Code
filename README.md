@@ -116,12 +116,6 @@ print("Hello, Python World!")
 
 ---
 
-## 📸 Screenshots (Optional)
-
-You can upload screenshots here if you'd like to show the steps visually.
-
----
-
 ## 🙌 Credits
 
 Documented by: **LennyDevs**
